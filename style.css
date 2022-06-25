@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.jumbotron {
+    background-size: cover;
+    background-position: center;
+    height: 650px ;
+    font-family: sans-serif;
+    font-weight: bold ;
+    color: blanchedalmond;
+
+}
+.jumbotron .lead {
+	margin-top: 100px;
+	margin-left: 50px;
+}
+.jumbotron .display-4 {
+	margin-top: 100px;
+	margin-left: 20px;
+	font-size: 30px;
+	font-weight: bold;
+}
+.jumbotron .btn {
+	margin-left:  50px;
+}
+.container {
+	margin-top: 100px;
+		
+}
+.list-group {
+	margin-left: 50px;
+	font-style: center;
+}
+.mt-5 {
+	margin-top: 100px;
+}
+.br {
+	height: 50px;
+	width: 50px;
+}
